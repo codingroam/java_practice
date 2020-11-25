@@ -23,7 +23,6 @@ public class ReadWriteLock {
         thread1.start();
     }
 
-
 }
 class LockDemo{
 
